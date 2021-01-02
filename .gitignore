@@ -1,7 +1,2 @@
-//ignore .DS_Store stuff
 .DS_Store
-//ignore the zip drive full of new images for site
-new/
 .vscode/
-dist/
-js/
